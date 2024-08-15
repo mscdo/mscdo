@@ -29,7 +29,7 @@ In my free time I watch dubious movies and series, do some code for silly things
 ### Detailed information
 
 * **Name:** Melina S. Campo Dall'Orto
-* **Age:**  29 _(and counting)_
+* **Age:**  30 _(and counting)_
 * **Living in:** Vitória - ES, Brazil
 * **Stack:** Typescript, Python, Vue.js, Quasar, PostgreSQL, Directus
 * **University:** Computer Engineer @ Universidade Federal do Espírito Santo
