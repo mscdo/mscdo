@@ -29,7 +29,8 @@ In my free time I watch dubious movies and series, do some code for silly things
 * **Name:** Melina S. Campo Dall'Orto
 * **Age:**  30 _(and counting)_
 * **Living in:** Vitória - ES, Brazil
-* **Stack:** Typescript, Python, Vue.js, Quasar, PostgreSQL, Directus
+* **Stack_old:** Typescript, Python, Vue.js, Quasar, PostgreSQL, Directus
+* 
 * **Undergraduation:** Computer Engineer @ Universidade Federal do Espírito Santo
   * **Research:** Artificial Intelligence / Natural Language Processing. "_Interface humano-máquina por meio da voz com o carro autônomo IARA_".
 * **Graduation (Master, Ma.):** Applied Computing @ IFES - Instituto Federal do Espírito Santo _(in progress)_
